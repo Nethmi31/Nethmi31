@@ -33,8 +33,8 @@
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Nethmi31&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="Nethmi31" align="left" />
 </a>
 
-<a href="#Nethmi31-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmi31&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="Nethmi31" align="right" />
+<a href="#MadushanSandaru1-title">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanIndrajith&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="AshanIndrajith" align="right" />
 </a>
 
 
