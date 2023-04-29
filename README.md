@@ -8,7 +8,7 @@
 </p>
 <center>
 <img src="https://raw.githubusercontent.com/AshanIndrajith/AshanIndrajith/main/readgif.gif" width="80%" height="40%" />
-<center>
+</center>
 
 
 <!-- <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="200" /> -->
