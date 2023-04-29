@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/AshanIndrajith/AshanIndrajith/main/readgif.gif" width="100%" height="80%" />
+
 
 
 <!-- <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="200" /> -->
