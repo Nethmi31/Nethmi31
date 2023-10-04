@@ -40,6 +40,8 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmi31&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="Nethmi31" align="right" />
 </a>
 
+[![An image of @nethmi31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nethmi31)](https://holopin.io/@nethmi31)
+
 
 
 
